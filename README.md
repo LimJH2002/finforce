@@ -47,7 +47,7 @@ yarn dev
 
 ## 📱 Live Demo
 
-Experience FinForce: [https://finforce.vercel.app](https://finforce1.vercel.app)
+Experience FinForce: [https://finforce.vercel.app](https://finforce.vercel.app)
 
 ## 📋 Project Scope
 
